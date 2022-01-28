@@ -58,4 +58,4 @@ $git commit -m  <message>
 ```
 $git push origin master
 ```
-Thats all about installation and version control with **Git**
+Thats all about installation and version control with **Git: https://github.com/ninjakwarl/PyMouse.git**
